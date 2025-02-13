@@ -62,7 +62,7 @@
 - Spot Light
 - Specular Mapping
 - Normal Mapping
-- Parallex Mapping
+- Parallax Mapping
 - Shadow Mapping with Directional Light
 - Shadow Mapping with Point Light
 - Shadow Mapping with Spot Light
@@ -84,7 +84,7 @@
 - Bloom & Physically Based Bloom
 - PBR (Physically Based Rendering)
 - IBL (Image Based Rendering) & Irradiance System
-- Skeletal Animation
+- Skeletal Animation & Procedural Animation
 - Occlusion Culling
 - SSAO (Screen Space Ambient Occlusion)
 - Global Illumination & Voxel Cone Tracing
