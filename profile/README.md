@@ -141,7 +141,7 @@
 ### Basic
 - Linear Motion
 - Angular Motion
-- Numerical Intergrators
+- Numerical Integrators
 - Fundamental Collision Detection & MTV (Minimum Translation Vector)
 
 ### Algorithm
