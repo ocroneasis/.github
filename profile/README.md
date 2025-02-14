@@ -79,7 +79,7 @@
 - Environmental Mapping
 - Reflection
 - Refraction
-- Fresnel Diffraction
+- Fresnel Effect
 - HDR (High Dynamic Range) & Tone Mapping
 - Bloom & Physically Based Bloom
 - PBR (Physically Based Rendering)
