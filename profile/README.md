@@ -101,7 +101,7 @@
 - HBAO (Horizon Based Ambient Occlusion)
 - FXAA (Fast Approximate Anti-Aliasing)
 - Depth Peeling
-- Atomospheric Scattering
+- Atmospheric Scattering
 - Water Caustics & FFT (Fast Fourier Transform)
 - Terrain Generation
 - Indirect Buffer
